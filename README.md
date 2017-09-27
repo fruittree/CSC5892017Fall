@@ -25,10 +25,10 @@ This course is an introduction to current algorithms used in computer vision and
   <li>Image gradients and edge detection</li>
   <li>Thinking in Frequency</li>
   <li>Image resampling and Gaussian pyramid</li>
-  <li>Feature Detection/li>
+  <li>Feature Detection</li>
   <li>Image descriptors</li>
   <li>Feature matching</li>
-  <li>Alignment/li>
+  <li>Alignment</li>
   <li>Camera models</li>
   <li>Stereos</li>
   <li>Motion</li>
