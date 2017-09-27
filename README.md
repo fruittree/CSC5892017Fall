@@ -36,7 +36,7 @@ This course is an introduction to current algorithms used in computer vision and
 
 <h2>Homeworks</h2>
 <h3>Problem set 1: Basic numpy/scipy and image processing </h3>
-Solution see Problemset1soltion.py
+Solution see <b>Problemset1soltion.py</b>
 
 <h3>Problem set 2: Image filtering, histogram equalization and steerable filters </h3>
 
