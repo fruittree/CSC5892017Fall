@@ -33,7 +33,7 @@ This course is an introduction to current algorithms used in computer vision and
   <li>Stereos</li>
   <li>Motion</li>
   <li>Color and lighting </li>
-  <li>Introduction to Recognition</li>
-  <li>Basic Machine Learning Methods</li>
-  <li Deep learning </li>
+  <li>Introduction to Recognition </li>
+  <li>Basic Machine Learning Methods </li>
+  <li> Deep learning </li>
 </ul>  
