@@ -1,3 +1,4 @@
-# CSC5892017Fall
+# CSC589 2017 Fall
+
 Introduction to Computer Vision by Dr. Bei Xiao 
-Problem sets and projects written in Python. 
+Problem sets, demo codes, and projects solutions written in Python. 
