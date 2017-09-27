@@ -8,7 +8,7 @@
 
 <h1>Introduction to Computer Vision</h1>
 
-This repository contains the demos used in CSC 589, Introduction to Computer Vision, taught at American University in DC, by Professor Bei Xiao. Problem sets, demo codes, and projects solutions written in Python. 
+This repository contains the homework solutions and in-class demos used in CSC 589, Introduction to Computer Vision, taught at American University in DC, by Professor Bei Xiao. Problem sets, demo codes, and projects solutions written in Python. 
 
 <h2>Course Overview:</h2>
 This course is an introduction to current algorithms used in computer vision and computational photography (automatic image editing and manipulations). We will start from low-level image processing (edges), and then move to mid-level feature analysis (texture, color, motion), and eventually to high-level image and video understanding (objects, faces, scene, human activity).  The topics include basic image processing and image analysis, camera models, texture synthesis, motion analysis, automatic image editing, object and scene recognition, face and pose recognition and a gentle survey of deep learning methods for computer vision. We will develop the intuitions and mathematics of the methods in class, and then learn about the difference between theory and practice in projects.
