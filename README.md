@@ -34,6 +34,9 @@ This course is an introduction to current algorithms used in computer vision and
   <li> Deep learning </li>
 </ul>  
 
+<h2>Lecture slides and demo codes:</h2>
+All lectures and demos codes are <a href="https://github.com/fruittree/CSC5892017Fall/tree/master/LecturesAndDemos">here</a>
+
 <h2>Homeworks</h2>
 <h3>Problem set 1: Basic numpy/scipy and image processing </h3>
 Solution see <b><a href="https://github.com/fruittree/CSC5892017Fall/blob/master/ProblemSet1Solution.py">Problem 1 solution</a></b>
