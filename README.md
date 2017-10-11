@@ -20,7 +20,7 @@ This course is an introduction to current algorithms used in computer vision and
   <li>Linear Filtering</li>
   <li>Image gradients and edge detection</li>
   <li>Thinking in Frequency</li>
-  <li>Image resampling and Gaussian pyramid</li>
+  <li>Image resampling and Gaussian pyramids</li>
   <li>Feature Detection</li>
   <li>Image descriptors</li>
   <li>Feature matching</li>
@@ -31,7 +31,7 @@ This course is an introduction to current algorithms used in computer vision and
   <li>Color and lighting </li>
   <li>Introduction to Recognition </li>
   <li>Basic Machine Learning Methods </li>
-  <li> Deep learning </li>
+  <li>Deep learning </li>
 </ul>  
 
 <h2>Lecture slides and demo codes:</h2>
@@ -43,6 +43,6 @@ Solution see <b><a href="https://github.com/fruittree/CSC5892017Fall/blob/master
 
 <h3>Problem set 2: Image filtering, histogram equalization and steerable filters </h3>
 
-
+<h3>Problem set 3: Hybrid Images </h3>
 
 
