@@ -42,7 +42,7 @@ All lectures and demos codes are <a href="https://github.com/fruittree/CSC589201
 Solution see <b><a href="https://github.com/fruittree/CSC5892017Fall/blob/master/ProblemSet1Solution.py">Problem 1 solution</a></b>
 
 <h3>Problem set 2: Image filtering, histogram equalization and steerable filters </h3>
-
+Solution see <b><a href="https://github.com/fruittree/CSC5892017Fall/blob/master/Homework2_Solution.py">Problem 2 solution</a></b>
 <h3>Problem set 3: Hybrid Images </h3>
 
 
